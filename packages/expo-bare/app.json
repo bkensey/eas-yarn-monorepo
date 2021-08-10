@@ -1,0 +1,10 @@
+{
+  "name": "EasYarnMonorepo",
+  "displayName": "EasYarnMonorepo",
+  "expo": {
+    "name": "EasYarnMonorepo",
+    "slug": "EasYarnMonorepo",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
