@@ -87,5 +87,22 @@
       "unimodules-sensors-interface",
       "unimodules-task-manager-interface"
     ]
+  },
+  "react-native-unimodules": {
+    "android": {
+      "modulesPaths": [
+        "../../../../"
+      ],
+      "configuration": "api",
+      "target": "react-native"
+    },
+    "ios": {
+      "modules_paths": [
+        "../../../"
+      ],
+      "flags": {
+        "inhibit_warnings": false
+      }
+    }
   }
 }
